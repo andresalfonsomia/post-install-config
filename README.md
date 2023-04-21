@@ -14,6 +14,4 @@ In this tutorial I go through the steps to configure and setup osTicket after in
 <br />
 <br />
 
-
-<h2>Main Steps<h2/>
-
+<h2>Youtube Demonstration
